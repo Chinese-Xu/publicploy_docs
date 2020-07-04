@@ -1,0 +1,5 @@
+python -m pip install mkdocs
+python -m mkdocs new [folder name]
+python -m mkdocs serve
+http://127.0.0.1:8000
+python -m mkdocs build

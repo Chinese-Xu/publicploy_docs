@@ -1,0 +1,11 @@
+site_name: PublicPloy用户手册
+nav:
+    - 前言: 'index.md'
+    - 网站使用:
+        - 注册流程: '01website/register.md'
+    - 公众号服务:
+        - 绑定: '02public_account/binding.md'
+        - 命令: '02public_account/commands.md'
+    - 客户服务: 'customer_service.md'
+    - 常见问题: 'FAQ.md'
+theme: readthedocs
